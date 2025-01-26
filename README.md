@@ -19,7 +19,6 @@
 | [zarjun](https://github.com/zarjun) | Datawhale成员 | 
 |陈长沙 | Datawhale成员 |
 
-*注：表头可自定义，但必须在名单中标明项目负责人*
 
 ## 参与贡献
 
