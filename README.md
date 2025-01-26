@@ -1,33 +1,23 @@
-# 项目名称
+# get-job
 
-*这里写项目的各类介绍信息、背景、动机等内容*
+本项目名为get-job，旨在为即将毕业踏入社会的应届生打造一份全面、实用的求职工作指南。应届生在求职过程中，往往因缺乏经验而面临诸多困惑与挑战，如不知如何制作简历突出自身优势、不了解面试流程与应对技巧、对职场环境和行业动态认识不足等。
+
+这份指南将涵盖从求职准备阶段，包括求职渠道、准备面试、简历制作等；到求职过程中的信息获取、网申技巧、笔试应对、面试攻略等；再到入职前的 offer 选择、入职准备等各个环节。通过详细的步骤指导、实用的案例分析、宝贵的经验分享，帮助应届生明确求职方向，提升求职技能，增加成功就业的机会，更好地适应职场生活，开启职业生涯新篇章 。
 
 ## 项目受众
 
-*注：这里写你的项目所面向的受众，本项目能给他们带来什么，对他们的基础能力要求有哪些*
+*即将毕业的应届生*
 
-## 目录
-*这里写你的项目目录，已完成的部分用添加上跳转链接*
-- [第1章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter1/chapter1.md)
-- [第2章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2)
-  - [2.1 我是2.1的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2/chapter2_1.md)
-  - [2.2 我是2.2的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2/chapter2_2.md)
-- [第3章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3)
-  - [3.1 我是3.1的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1)
-    - [3.1.1 我是3.1.1的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1/chapter3_1_1.md)
-    - [3.1.2 我是3.1.2的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1/chapter3_1_2.md)
-  - 3.2 我是3.2的标题
-- 第4章
-  - 4.1 我是4.1的标题
-  - 4.2 我是4.2的标题
 
 ## 贡献者名单
 
-| 姓名 | 职责 | 简介 |
-| :----| :---- | :---- |
-| 小明 | 项目负责人 | 一个理想主义者 |
-| 小红 | 第1章贡献者 | 小明的朋友 |
-| 小强 | 第2章贡献者 | 小明的朋友 |
+| 姓名 | 介绍 | 
+| :----| :---- | 
+| [牧小熊](https://www.zhihu.com/people/muxiaoxiong)| Datawhale成员 | 
+| 老徐 |Datawhale成员 | 
+| 胡杨林 | Datawhale成员 | 
+| [zarjun](https://github.com/zarjun) | Datawhale成员 | 
+|陈长沙 | Datawhale成员 |
 
 *注：表头可自定义，但必须在名单中标明项目负责人*
 
